@@ -6,3 +6,7 @@ ex1 en ex2 bevatten opdrachten in verband met de les. Bestaande html staat al kl
 Vaak kan het resultaat behaald worden door enkele classes toe te voegen op de juiste plaatsen, het is mogelijk dat je soms ook extra html tags moet toevoegen
 
 De opdracht staat telkens beschreven in een comment bovenaan de body
+
+
+## Slides
+De slides kan je [hier](https://docs.google.com/presentation/d/1-_vLPtZqc45MlRI-eP5QhklvvbrIgMnIMT0RL2q4DPE/edit?usp=sharing) terugvinden
